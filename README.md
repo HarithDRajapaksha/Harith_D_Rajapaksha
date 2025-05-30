@@ -1,42 +1,12 @@
-# 👋 Hello, I'm Harith Devinda Rajapaksha!
+# React + Vite
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineering undergraduate** with a keen interest in **web development** and **UI/UX design**. With hands-on experience in both frontend and backend development, I enjoy building innovative digital solutions that enhance user experiences.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🚀 Skills & Technologies
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** SQL, Python, Java, C++
-- **Database:** MySQL
-- **Tools:** Visual Studio Code, phpMyAdmin
+## Expanding the ESLint configuration
 
----
-
-## 🌍 Projects
-
-Here are a few projects I've been working on:
-
-1. **EduTip** – An online educational platform aimed at connecting teachers and students for interactive learning.
-2. **DASHTAP** – A vehicle rental system app developed in Visual Studio Code, integrating real-time visualization.
-3. **SkillSwap** – A dynamic platform to exchange skills, featuring pages for profiles, walls, ratings, and more.
-
-Explore my repositories to see more of my work!
-
----
-
-## 🔗 Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/harith-rajapaksha-940826261](https://www.linkedin.com/in/harith-rajapaksha-940826261)
-- **GitHub:** [github.com/HarithDRajapaksha](https://github.com/HarithDRajapaksha)
-
----
-
-## 📈 GitHub Stats
-
-![Harith's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarithDRajapaksha&show_icons=true&theme=default)
-
-Thank you for visiting my profile! Let's connect and create something amazing together.
-
----
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
